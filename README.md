@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marco Lopez Farias</h1>
-<h3 align="center">A passionate about technology and Full Stack developer from Argentina 🇦🇷, I'm a very sociable person that love's TeamWork and learn very fast! I just finished SoyHenry Bootcamp., and looking for new and passionate challenges in my professional career</h3>
+<h3 align="center">A passionate about technology and Full Stack developer from Argentina 🇦🇷, I'm a very sociable person that love's TeamWork and learn very fast! I've graduated from SoyHenry's Bootcamp, and I'm currently working in EvolutionCode as a React and React Native developer specialized in Shopify integration</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcolopezf&label=Profile%20views&color=0e75b6&style=flat" alt="marcolopezf" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcolopezf" alt="marcolopezf" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio**
+- 🔭 I’m currently working on **EvolutionCode** as a **React Native** developer
 
 - 🌱 I’m currently learning **Typescript, Node.js, Sql**
 
