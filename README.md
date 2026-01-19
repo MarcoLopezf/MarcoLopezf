@@ -1,26 +1,79 @@
 <h1 align="center">Hi 👋, I'm Marco Lopez Farias</h1>
-<h3 align="center">A passionate about technology and Full Stack developer from Argentina 🇦🇷, I'm a very sociable person that love's TeamWork and learn very fast! I've graduated from SoyHenry's Bootcamp, and I'm currently working in EvolutionCode as a React and React Native developer specialized in Shopify integration</h3>
+<h3 align="center">Software Engineer | React & Next.js | AI-Enhanced Development</h3>
+<p align="center">
+  <em>Clean Architecture • Domain-Driven Design (DDD) • Automation Specialist</em>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcolopezf&label=Profile%20views&color=0e75b6&style=flat" alt="marcolopezf" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=marcolopezf&label=Profile%20views&color=0e75b6&style=flat" alt="marcolopezf" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcolopezf" alt="marcolopezf" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on **EvolutionCode** as a **React Native** developer
+### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Typescript, Node.js, Sql**
+I am a **Software Engineer** from Argentina 🇦🇷 focused on building scalable, maintainable software within the React ecosystem. I advocate for **Clean Architecture** principles to decouple business logic from frameworks, ensuring robust and testable applications.
 
-- 📫 How to reach me **marcolopezf00@gmail.com**
+Currently, I specialize in **E-commerce Automation** and **System Integration**, leveraging tools like **n8n** alongside custom engineering to solve complex business problems.
 
-- ⚡ Fun fact **I'm a very positive person**
+- 🔭 I’m currently working as a **Freelance Automation Engineer** (Shopify + WhatsApp APIs).
+- 🎓 I’m currently completing a **Master in AI Development** at BIG School.
+- 🌱 I’m deepening my knowledge in **TDD**, **LLMOps**, and **DevSecOps**.
+- 📫 Reach me at **marcolopezf00@gmail.com**
+
+<br/>
+
+### 🛠 Tech Stack & Tools
+
+**Frontend & Mobile**
+<p>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+**Backend, Automation & Database**
+<p>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+**DevOps & Tools**
+<p>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+<br/>
+
+### 📊 Github Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcolopezf&show_icons=true&locale=en&theme=tokyonight" alt="marcolopezf" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcolopezf&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="marcolopezf" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=marcolopezf&theme=flat&no-frame=true&column=7" alt="marcolopezf" />
+  </a>
+</div>
+
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/marcolopezfarias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcolopezfarias" height="30" width="40" /></a>
+  <a href="mailto:marcolopezf00@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="marcolopezf00@gmail.com" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcolopezf&show_icons=true&locale=en&layout=compact" alt="marcolopezf" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcolopezf&show_icons=true&locale=en" alt="marcolopezf" /></p>
-
