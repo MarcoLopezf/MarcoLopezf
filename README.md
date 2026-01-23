@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marco Lopez Farias</h1>
 <h3 align="center">Software Engineer | React & Next.js | AI-Enhanced Development</h3>
 <p align="center">
-  <em>Clean Architecture • Domain-Driven Design (DDD) • Automation Specialist</em>
+  <em>Clean Architecture • Test-Driven Development (TDD) • Automation Specialist</em>
 </p>
 
 <p align="center">
